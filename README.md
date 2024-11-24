@@ -97,6 +97,7 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır.
 **Discord Bot** - Geliştirici: [Wasetrox](https://github.com/Wasetrox)
 ```
 
-### Discord
+# Contact & Support
+<a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
 
-https://discord.gg/novadev
+[![Discord Banner](https://api.weblutions.com/discord/invite/novadev/)](https://discord.gg/novadev)
