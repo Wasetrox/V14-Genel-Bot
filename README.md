@@ -92,12 +92,10 @@ Bu projeye katkıda bulunmak isterseniz aşağıdaki adımları takip edebilirsi
 
 Bu proje **MIT Lisansı** altında lisanslanmıştır.
 
+# Contact & Support
+[![Discord Banner](https://api.weblutions.com/discord/invite/novadev/)](https://discord.gg/novadev)
+
 ## Yapımcı
 
 **Discord Bot** - Geliştirici: [Wasetrox](https://github.com/Wasetrox)
 ```
-
-# Contact & Support
-<a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
-
-[![Discord Banner](https://api.weblutions.com/discord/invite/novadev/)](https://discord.gg/novadev)
