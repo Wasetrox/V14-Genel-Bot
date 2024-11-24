@@ -1,8 +1,4 @@
 ```markdown
-# Discord Bot
-
-Bu, Discord.js v14 kullanılarak geliştirilmiş, moderasyon, eğlence, ekonomi ve otomasyon sistemleri içeren bir Discord botudur. Bu bot, kullanıcıların eğlenebileceği ve yönetim işlemlerini kolayca yapabileceği özellikler sunar.
-
 ## Özellikler
 
 - **Moderasyon Komutları**: Sunucu yönetimi için komutlar (ban, kick, mute, rol yönetimi vb.)
